@@ -1,0 +1,1718 @@
+Company_name
+1mg
+
+2
+
+3rdTech Inc.
+
+3
+
+AB InBev
+
+4
+
+Aboota
+
+5
+
+Accenture India Private Limited
+
+6
+
+Accolite Software India Private Limited 
+
+7
+
+Adda247 (Metis Eduventures Pvt Ltd)
+
+8
+
+Addverb Technologies Private Limited
+
+9
+
+Adobe Systems
+
+10
+
+Advantage Club (Work Advantage)
+
+11
+
+Afford Medical Technologies Pvt. Ltd.
+
+12
+
+Aganitha Cognitive Solutions
+
+13
+
+Airbnb
+
+14
+
+Aizant Drug Research Solutions
+
+15
+
+Alpha Net
+
+16
+
+Alstom Projects India Ltd.
+
+17
+
+Amadeus Software Labs India Pvt Ltd
+
+18
+
+Amazon India
+
+19
+
+AMD (Advanced Micro Devices, Inc.)
+
+20
+
+Amdocs Development Center India LLP
+
+21
+
+American Express
+
+22
+
+ANAND Automotive Private Limited
+
+23
+
+Anarock
+
+24
+
+Anetcorp India Pvt. Ltd.
+
+25
+
+Anmol India Limited
+
+26
+
+Apple
+
+27
+
+Arcesium India Private Ltd
+
+28
+
+AscentX Software Development Services
+
+29
+
+Asian Paints Limited
+
+30
+
+Atlan
+
+31
+
+Attentive AI Solutions Pvt Ltd
+
+32
+
+Autoninja
+
+33
+
+Axis Bank
+
+34
+
+Axtria
+
+35
+
+Axxela
+
+36
+
+Azcom Infosolutions (India) Pvt. Ltd.    
+
+37
+
+B&S Engineering Consultants Pvt. Ltd.
+
+38
+
+Bain & Company
+
+39
+
+Bajaj Auto Limited
+
+40
+
+Bank of America
+
+41
+
+Barclays
+
+42
+
+Barco Electronic Systems Pvt. Ltd.
+
+43
+
+Bechtel India Private Limited
+
+44
+
+Bharat Electronics Limited
+
+45
+
+BirdEye India Pvt. Ltd.
+
+46
+
+BITCS
+
+47
+
+BlackNGreen Mobile Solutions Pvt. Ltd.
+
+48
+
+BlackRock
+
+49
+
+Blue Yonder, Inc.(JDA Software)
+
+50
+
+Bluecore
+
+51
+
+Bluecraft Agro Pvt. Ltd.
+
+52
+
+BlueOptima
+
+53
+
+Blume Global
+
+54
+
+Boldrocchi India Pvt Ltd
+
+55
+
+BootcampX
+
+56
+
+Bosch
+
+57
+
+BrightChamps
+
+58
+
+Bristlecone
+
+59
+
+CaaStle (Gwynnie Bee)
+
+60
+
+Cadence Design Systems India Limited
+
+61
+
+Capgemini Technology Services India Limited
+
+62
+
+CashKaro.com
+
+63
+
+Celebal Technologies
+
+64
+
+Celigo
+
+65
+
+Chai Point (Mountain Trail Foods Pvt Ltd)
+
+66
+
+Chegg India Pvt. Ltd.
+
+67
+
+Ciena
+
+68
+
+Cisco Systems, Inc.
+
+69
+
+Clairvolex
+
+70
+
+Click Labs Private Limited
+
+71
+
+CloudEQ
+
+72
+
+Cloudera, Inc.
+
+73
+
+Clover Bay Technologies Pvt. Ltd.
+
+74
+
+Clues Network Pvt. Ltd.
+
+75
+
+Clutterbot
+
+76
+
+CNH Industrial (India) Pvt. Ltd
+
+77
+
+Code Brew Labs
+
+78
+
+Codfirm
+
+79
+
+Coding Ninjas
+
+80
+
+Cognizant Technology Solutions
+
+81
+
+Collegedunia
+
+82
+
+Comviva Technologies Ltd.
+
+83
+
+Continental Device India Ltd
+
+84
+
+Convene India Private Limited
+
+85
+
+Convrse.ai
+
+86
+
+Credilinq.ai
+
+87
+
+Cubastion Consulting Pvt. Ltd.
+
+88
+
+Cuvette
+
+89
+
+D. E. Shaw India Private Limited
+
+90
+
+Dabur India Limited
+
+91
+
+Daimler India Commercial Vehicles
+
+92
+
+Dell Technologies
+
+93
+
+Deloitte Consulting India Pvt. Ltd.
+
+94
+
+Dematic
+
+95
+
+Docquity
+
+96
+
+Dolcera Information Technology Services Private Limited
+
+97
+
+DotPe
+
+98
+
+Droom Technology
+
+99
+
+EazyDiner
+
+100
+
+Edifecs Technologies Private Limited
+
+101
+
+Editorialist Yx
+
+102
+
+ElectricPe
+
+103
+
+Elixire
+
+104
+
+EMCO Electrodyne (P) Ltd.
+
+105
+
+Engineers India Ltd.
+
+106
+
+Ennoble IP Consultancy Pvt. Ltd.
+
+107
+
+Enquero
+
+108
+
+Ericsson India Global Services Private Limited
+
+109
+
+Ernst & Young Private Limited
+
+110
+
+Escorts Limited
+
+111
+
+Estee Advisors Pvt Ltd
+
+112
+
+Evalueserve Private Limited
+
+113
+
+Exicom Tele-Systems Limited
+
+114
+
+EXL Service
+
+115
+
+Expedia Group
+
+116
+
+EY Global Delivery Services India Pvt. Ltd.
+
+117
+
+EY Global Delivery Services Pvt. Ltd.
+
+118
+
+F5 Networks Innovation Pvt. Ltd.
+
+119
+
+FactWise
+
+120
+
+Fasal
+
+121
+
+Fastenal India
+
+122
+
+Federal Bank
+
+123
+
+Filo
+
+124
+
+FIS
+
+125
+
+Flipkart
+
+126
+
+Fluor Daniel India Private Limited
+
+127
+
+FnZ
+
+128
+
+Fractal
+
+129
+
+Frugal Testing
+
+130
+
+Futures First Info Services Pvt Ltd
+
+131
+
+GalaxEye Space
+
+132
+
+Gameskraft
+
+133
+
+General Highways And Infracon Pvt. Ltd.
+
+134
+
+GEP Worldwide
+
+135
+
+Girnarsoft Pvt. Ltd. (Insurancedekho)
+
+136
+
+Gokwik
+
+137
+
+Goldman Sachs Services Pvt Ltd
+
+138
+
+GrapeCity India Private Limited
+
+139
+
+Gretxp
+
+140
+
+GreyB Services
+
+141
+
+Growth jockey
+
+142
+
+Gujarat State Petronet Limited
+
+143
+
+Gupshup Technology
+
+144
+
+GX India Pvt. Ltd.
+
+145
+
+Happy Forging Ltd.
+
+146
+
+Harness
+
+147
+
+Hashedin Technologies
+
+148
+
+Havells
+
+149
+
+Havells India Ltd.
+
+150
+
+HCL Technologies Ltd
+
+151
+
+Healthians
+
+152
+
+HeidelbergCement India Ltd.
+
+153
+
+Hero Motocorp Ltd.
+
+154
+
+Hero MotoCorp.Ltd
+
+155
+
+Hevo Data Inc.
+
+156
+
+Hexaview Technologies, Inc
+
+157
+
+HFCL Limited
+
+158
+
+Hike Pvt. Ltd.
+
+159
+
+Hindustan Times Media
+
+160
+
+Hindustan Unilever
+
+161
+
+Hitachi Vantara
+
+162
+
+Holcim Group
+
+163
+
+Honda Motorcycle & Scooter India Pvt. Ltd.
+
+164
+
+Honeywell International Inc.
+
+165
+
+Hono HR
+
+166
+
+Housing.com
+
+167
+
+HPCL-Mittal Energy Ltd
+
+168
+
+HSBC Software Development (India) Private Limited
+
+169
+
+HT Digital
+
+170
+
+IBM India Private Limited
+
+171
+
+Ikarus 3D
+
+172
+
+Incedo
+
+173
+
+Incedo Inc.
+
+174
+
+Incentius
+
+175
+
+Increff
+
+176
+
+IndiaMART InterMESH Ltd.
+
+177
+
+INDmoney
+
+178
+
+Indus Valley Partners
+
+179
+
+Infinera
+
+180
+
+InfoObjects Inc
+
+181
+
+Informatica Corporation
+
+182
+
+Infosys Limited
+
+183
+
+InSemi Technology Services Pvt. Ltd.
+
+184
+
+Intel Technology India Pvt. Ltd.
+
+185
+
+Intellismart Infra
+
+186
+
+Interra Systems India Pvt. Ltd.
+
+187
+
+Intuit Inc
+
+188
+
+IOL Chemicals and Pharmaceuticals Limited
+
+189
+
+ION Trading India Private Limited
+
+190
+
+IQuest
+
+191
+
+ISGEC Heavy Engineering Ltd
+
+192
+
+Jacobs Engineering Group Inc
+
+193
+
+Jay Bharat Maruti Ltd. (JBM)
+
+194
+
+Jindal Steel & Power Limited
+
+195
+
+JPMorgan Chase & Co.
+
+196
+
+JSW Group
+
+197
+
+JTG E-Business Software Pvt Ltd (Josh Technology Group)
+
+198
+
+Jubilant FoodWorks Limited
+
+199
+
+Jubilant Ingrevia
+
+200
+
+Jubilant Pharmova
+
+201
+
+Juniper Networks, Inc.
+
+202
+
+Justpay
+
+203
+
+Keysight Technologies
+
+204
+
+Khanna Paper Mills
+
+205
+
+KMK Consulting
+
+206
+
+Knowlvers Consulting Pvt. Ltd.
+
+207
+
+KPMG Global Services
+
+208
+
+L&T Ltd
+
+209
+
+L&T Nabha Power Ltd
+
+210
+
+L&T Technology Services Ltd
+
+211
+
+Labellerr
+
+212
+
+Landis + Gyr Limited
+
+213
+
+Larsen & Toubro Limited
+
+214
+
+Lava International Ltd.
+
+215
+
+Lenskart
+
+216
+
+LG Electronics India Pvt. Ltd
+
+217
+
+LIBSYS Ltd.
+
+218
+
+LKT Engineering Consultants Ltd
+
+219
+
+LOCOFAST
+
+220
+
+Lumenci Inc.
+
+221
+
+Luminous Power Technologies
+
+222
+
+Lybrate India Private Limited
+
+223
+
+Maccaferri Environmental Sol. Pvt Ltd
+
+224
+
+Magicbricks
+
+225
+
+Magicpin (Samast Technologies)
+
+226
+
+Mahindra & Mahindra Ltd.
+
+227
+
+Make My Trip India Private Limited (Go-MMT)
+
+228
+
+Mamaearth
+
+229
+
+MAQ Software
+
+230
+
+Maruti Suzuki India Limited
+
+231
+
+MathonGo
+
+232
+
+MathWorks
+
+233
+
+McDermott
+
+234
+
+McKinley & Rice Creativity Pvt. Ltd.
+
+235
+
+McKinsey & Company
+
+236
+
+Media.net
+
+237
+
+Mentor Graphics
+
+238
+
+Mercer Consulting India
+
+239
+
+MG Motor India
+
+240
+
+MG Motors
+
+241
+
+Microland Limited
+
+242
+
+Microsoft India Private Limited
+
+243
+
+Miles Education Private Limited
+
+244
+
+Mind Works Global Media Services
+
+245
+
+MobiKwik
+
+246
+
+Monster India
+
+247
+
+Motherson Sumi Systems Limited
+
+248
+
+Mphasis Limited
+
+249
+
+MSB Digital Pvt. Ltd
+
+250
+
+Msmex
+
+251
+
+My Park Plus
+
+252
+
+Mylo
+
+253
+
+Nagarro Software Pvt. Ltd
+
+254
+
+Nation with NaMo
+
+255
+
+NatWest
+
+256
+
+Naukri.Com
+
+257
+
+Navi Technologies Pvt Ltd.
+
+258
+
+Netsmartz LLC
+
+259
+
+neurIOT
+
+260
+
+Niyo Solution Inc.
+
+261
+
+Nokia Solutions & Networks India Pvt. Ltd.
+
+262
+
+NTT DATA Corporation
+
+263
+
+Nucleus Software Exports
+
+264
+
+Number Theory Software Pvt. Ltd.
+
+265
+
+NXP Semiconductors
+
+266
+
+Observe.AI
+
+267
+
+Oda Class
+
+268
+
+OLX Group
+
+269
+
+One Shield Software
+
+270
+
+Onebanc Technologies Pvt Ltd
+
+271
+
+Open Futures Group
+
+272
+
+Optum
+
+273
+
+Oracle India Private Limited
+
+274
+
+Orahi
+
+275
+
+Orient Electric Limited
+
+276
+
+Oriental Carbon & Chemicals Limited
+
+277
+
+Oyo Rooms
+
+278
+
+Panasonic India
+
+279
+
+Park Plus
+
+280
+
+Patentskart
+
+281
+
+Pay U Credit
+
+282
+
+Paytm
+
+283
+
+Phable Care
+
+284
+
+PhaleCare
+
+285
+
+Pharma Ace
+
+286
+
+PharmEasy
+
+287
+
+Physics Wallah
+
+288
+
+Pickrr Technologies Pvt. Ltd.
+
+289
+
+Pocket Pills
+
+290
+
+Pocketful Fintech Capital Pvt. Ltd.
+
+291
+
+PPL Work
+
+292
+
+Primathon Technology
+
+293
+
+ProcDNA
+
+294
+
+Propelld
+
+295
+
+Providence Global Innovation Center
+
+296
+
+PureSoftware
+
+297
+
+Quality Council of India
+
+298
+
+Quantiphi Inc
+
+299
+
+QUARK Software Inc.
+
+300
+
+Quicket Solutions
+
+301
+
+Rapido
+
+302
+
+Real Time Data Services Pvt. Ltd.
+
+303
+
+Reliance Industries Ltd.
+
+304
+
+Reliance Jio
+
+305
+
+Relinns Technologies
+
+306
+
+RetainIQ
+
+307
+
+Ribbon Communication Inc.
+
+308
+
+Rockwell Automation
+
+309
+
+Rolling Arrays Consulting Pvt. Ltd.
+
+310
+
+Roots Analysis
+
+311
+
+Rystad Energy
+
+312
+
+S.P. Singla Constructions Pvt. Ltd.
+
+313
+
+Sabre Corporation
+
+314
+
+Sagacious IP
+
+315
+
+Saint Gobain India Pvt. Ltd.
+
+316
+
+Salesforce, Inc.
+
+317
+
+Samsung Data Systems India Private Limited
+
+318
+
+Samsung Engineering India
+
+319
+
+Samsung Research Institute Delhi
+
+320
+
+Samsung Research Institute Noida
+
+321
+
+Samsung RI Bangalore
+
+322
+
+Samsung SDS India
+
+323
+
+Samsung Semiconductor India Research – SSIR
+
+324
+
+Sapio Analytics
+
+325
+
+Saro Tech Solutions Private Limited
+
+326
+
+Schlumberger Limited
+
+327
+
+Seekify
+
+328
+
+Shapoorji Pallonji Group
+
+329
+
+Shell India Markets Private Limited
+
+330
+
+Shigan Group
+
+331
+
+Shriram Pistons & Rings
+
+332
+
+Shriram Pistons & Rings Ltd.
+
+333
+
+Siemens Digital Industries Software
+
+334
+
+Siemens Healthineers (Siemens Health Care)
+
+335
+
+Siemens India
+
+336
+
+Siemens Industry Software (I) Pvt. Ltd.
+
+337
+
+Signicent Information Solutions LLP
+
+338
+
+Signify (Philips Lighting)
+
+339
+
+Signify Innovation
+
+340
+
+Sirion Labs
+
+341
+
+Skolar
+
+342
+
+Skuad
+
+343
+
+Smart Energy Water
+
+344
+
+SML Isuzu Limited
+
+345
+
+Snapdeal
+
+346
+
+Sopra Banking Software
+
+347
+
+SourceFuse Technologies
+
+348
+
+SpectraMedix
+
+349
+
+Spinks World
+
+350
+
+Spyne
+
+351
+
+SRF Limited
+
+352
+
+Standard Chartered GBS Pvt Ltd
+
+353
+
+Startbeans Learning Solutions
+
+354
+
+Statxo
+
+355
+
+Steel Strips Wheels Ltd.
+
+356
+
+Stellantis
+
+357
+
+STMicroelectronics
+
+358
+
+Stonewain Systems Inc
+
+359
+
+Strategic Research Insights
+
+360
+
+Stryker Global Technology Center
+
+361
+
+Subros
+
+362
+
+SugarBox Networks
+
+363
+
+Super Six Sports Gaming (SSSG) Pvt. Ltd.
+
+364
+
+Supermind
+
+365
+
+Synopsys
+
+366
+
+Systra
+
+367
+
+Target Corporation
+
+368
+
+Tartanhq
+
+369
+
+Tata Consultancy Services Limited
+
+370
+
+Tata Digital
+
+371
+
+Tata Motors Limited
+
+372
+
+Tata Power Delhi Distribution Limited
+
+373
+
+Tavant Technologies
+
+374
+
+Tektronix India Private Limited
+
+375
+
+TELUS International
+
+376
+
+Tenneco
+
+377
+
+Tetra Pak
+
+378
+
+Texas Instruments
+
+379
+
+The Smart Cube
+
+380
+
+The Solar Labs
+
+381
+
+Think & Learn Pvt. Ltd.
+
+382
+
+ThinkSys Inc.
+
+383
+
+ThoughtSpot
+
+384
+
+Titan Company Ltd.
+
+385
+
+To The New (TTN)
+
+386
+
+Torcai
+
+387
+
+Total Environment
+
+388
+
+Total IT Global
+
+389
+
+Tredence
+
+390
+
+Tredence Analytics
+
+391
+
+TridentGroup
+
+392
+
+Trilogy
+
+393
+
+Truck x
+
+394
+
+Truminds Software Systems
+
+395
+
+TVS Motor Company
+
+396
+
+UBS Business Solutions (India) Pvt Ltd.
+
+397
+
+Ultimate Kronos Group (UKG)
+
+398
+
+Unisys Infosolution Pvt. Ltd.
+
+399
+
+United Bank Of Switzerland
+
+400
+
+United Breweries Ltd.
+
+401
+
+Uolo EdTech Private Limited
+
+402
+
+Urban Air Labs
+
+403
+
+Vah Vah
+
+404
+
+Vasitum Inc.
+
+405
+
+Vayuz
+
+406
+
+VE Commercial Vehicles Ltd.
+
+407
+
+Vedanta Limited
+
+408
+
+Verzeo
+
+409
+
+Virtual Engineering Services Pvt. Ltd (VES)
+
+410
+
+Viscadia
+
+411
+
+Vitraya Technologies Private Limited
+
+412
+
+VMware Software India Pvt. Ltd.
+
+413
+
+Volvo Group
+
+414
+
+WatchGuard Technologies India Pvt. Ltd.
+
+415
+
+Western Digital Corporation (Sandisk Corporation)
+
+416
+
+Wipro Ltd.
+
+417
+
+WNS Global Services
+
+418
+
+World of River
+
+419
+
+WPU RISE Digital Learning Pvt. Ltd
+
+420
+
+Xebia
+
+421
+
+Y hills
+
+422
+
+Z1 Media
+
+423
+
+Zensar Technologies
+
+424
+
+zHealtHEHR
+
+425
+
+Ziroh Labs
+
+426
+
+Zomato
+
+427
+
+ZS Associates India Pvt Ltd.
+
+428
+
+Zscaler Inc
+
+429
+
+Zydus Lifesciences Ltd
+
+430
+
+Zynga Gaming Network
