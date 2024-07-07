@@ -3,6 +3,7 @@ import pymysql
 import pandas as pd
 from send_notification import send_notification
 import re
+import time
 
 connection = pymysql.connect(host="localhost", port=3306, user="root", passwd="", database="thapar_pims")
 cursor = connection.cursor()
@@ -43,7 +44,14 @@ def add_to_database(dataset):
     print("Notifications sent.")
     payload_message=re.sub(r'\s*\d+(\.\d+)?\.\s*Nan\s*',"",payload_message)
     # print(payload_message)
-    send_notification(payload_message, "9872141607")
+
+    users=pd.read_csv("C:\\xampp\\\htdocs\\thapar-pims\\thapar-pims\\users.csv")
+    for index, row in users.iterrows():
+        print("Sending notification to ")
+        print(row['Name'])
+        send_notification(payload_message, str(row['Number']))
+        print("Sleeping for 60")
+        time.sleep(60)
     
     if os.path.exists("email_dataset\\emails.csv"):
         os.remove("email_dataset\\emails.csv")

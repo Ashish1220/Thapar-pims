@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\getemailscontroller;
 use App\Http\Controllers\readmailsubject;
 use App\Http\Controllers\read_subject;
+use App\Http\Controllers\subscribe_info;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,6 +19,13 @@ use App\Http\Controllers\read_subject;
 Route::get('/', function () {
     return view("index");
 });
+
+Route::get('/subscribe', function () {
+    return view("subscribe");
+});
+
+Route::post('/subscribe', [subscribe_info::class, 'subscribe_infor']);
+Route::post('/unsubscribe', [subscribe_info::class, 'unsubscribe_infor']);
 
 
 
