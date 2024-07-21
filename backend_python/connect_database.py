@@ -4,6 +4,8 @@ import pandas as pd
 from send_notification import send_notification
 import re
 import time
+from NLP_TRAINED_MODEL.bart import PowerupSummarizer
+
 
 connection = pymysql.connect(host="localhost", port=3306, user="root", passwd="", database="thapar_pims")
 cursor = connection.cursor()
@@ -23,25 +25,44 @@ def commit_to_db(x):
     
 def add_to_database(dataset):
     no_of_new_emails = dataset.shape[0]
-    temp = 0
     payload_message = "THAPAR_PIMMS:\n"
+    summarizer_model=PowerupSummarizer()    
+    temp=""
     
-    for i in range(no_of_new_emails):
-        payload_message += f"{temp + 1}. {dataset.iloc[i, 2]}\n"
+    to_summarise_list=[]
+    for i in range((no_of_new_emails)):
+        for j in dataset.iloc[i,4]:
+            if(ord(j)<=127 and ord(j)>=32):
+                temp+=j
+        temp=str(temp)
+        temp='"""'+temp+'"""'
+        print(f"Creating summary for:  {temp}")
+        s=summarizer_model.get_summary(temp)
+        re.sub("<br>"," ",s)
+        print(s)
+        to_summarise_list.append(s)
+        print("Summary generated!")
+        temp=""
+        print("nlp predecting")
+    print("nlp done!! ")
+    temp=0
+    for i in range((no_of_new_emails)):
+        dte=dataset.iloc[i,1][0:10]
+        tme=dataset.iloc[i,1][11:19]
+        payload_message += f"{temp + 1}. {dataset.iloc[i, 2]}\n Date: {dte}\n Time: {tme}\n Summary : {to_summarise_list[i]} \n\n ---------------\n\n"
         temp=temp+1
     
     print("IN COMMIT")
     print("payload message:")
-    # print(payload_message.encode('utf-8'))
     
     dataset.apply(commit_to_db, axis=1)
     
-    
     connection.commit()
-   
     connection.close()
     
-    print("Notifications sent.")
+
+    
+    
     payload_message=re.sub(r'\s*\d+(\.\d+)?\.\s*Nan\s*',"",payload_message)
     # print(payload_message)
 
@@ -50,9 +71,11 @@ def add_to_database(dataset):
         print("Sending notification to ")
         print(row['Name'])
         send_notification(payload_message, str(row['Number']))
-        print("Sleeping for 60")
-        time.sleep(60)
+        print("Sleeping for 5 (for tutorial)")
+        time.sleep(5)
     
+    print("Notifications sent.")
+
     if os.path.exists("email_dataset\\emails.csv"):
         os.remove("email_dataset\\emails.csv")
 

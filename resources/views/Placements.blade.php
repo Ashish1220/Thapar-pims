@@ -91,9 +91,9 @@
                 <?php if ($record->Sender_Email != "Nan"): ?>
                 <div class="email-item" id="{{$record->id}}">
                     <h2>Email From: {{ $record->Sender_Email}}</h2>
-                    <h1>Date: {{ $record->Email_recv_date}}</h1>
-                    <div> <p><b>Company Name: {{$record->Company_Name}}</b></p>
-                    <p>Subject: {{$record->Email_Subject}}</p>
+                    <h1><b>Date: {{ $record->Email_recv_date}} </b></h1>
+                    <div> 
+                    <p> <b>Subject: {{$record->Email_Subject}} </b></p>
                     <a href="read_more/{{$record->id}}">Read More</a>
                 </div>
                 </div>

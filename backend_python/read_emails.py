@@ -7,6 +7,7 @@ gmail = Gmail()
 query_params = {
     "newer_than": (1, "month"),
     "sender": ["csed.summerinternships@thapar.edu","spr@thapar.edu"],
+    "unread": True 
 }
 messages = gmail.get_messages(query=construct_query(query_params))
 
@@ -23,6 +24,8 @@ print("DATA LOADED")
 
 print(email_data)
 filter_and_upload_emails(email_data)
+# mark as read code to be inserted
+
 print("Everything Executed Properly!.")
 
 

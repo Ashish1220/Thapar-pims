@@ -12,22 +12,20 @@ stp_words=stopwords.words('english')
 target_words_string="thapar placement internships campus"
 target_words=target_words_string.split(" ")
 threshhold=[0,1,1,1]
-not_required_words_string="expert talk survey scholarship Ambassador competition festival"
+not_required_words_string="expert talk survey scholarship Ambassador 6petition festival"
 not_required_words=not_required_words_string.split(" ")
-companies=pd.read_csv('backend_python/companies_thapar/companies_dataframe.csv')
-stop_words_for_placements=pd.read_csv("backend_python/companies_thapar/stop_words_for_companies.csv")
+companies=pd.read_csv('companies_thapar/companies_dataframe.csv')
+stop_words_for_placements=pd.read_csv("companies_thapar/stop_words_for_companies.csv")
 
 
 def extract_links(dataset):
      temp=list()
      for i in dataset["Email_body"]:
-
+        
         pattern = r'https?://[^\s<>"]+'
+        matches=''
         if(type(i)==str):
             matches = re.findall(pattern, i)
-    
-            
-        
         matches=list(set(matches))
                
         if(type(matches) is None):
