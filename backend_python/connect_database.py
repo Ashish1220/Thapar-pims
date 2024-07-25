@@ -53,9 +53,8 @@ def add_to_database(dataset):
         temp=temp+1
     
     print("IN COMMIT")
-    print("payload message:")
-    
     dataset.apply(commit_to_db, axis=1)
+    
     
     connection.commit()
     connection.close()

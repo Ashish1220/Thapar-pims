@@ -9,22 +9,22 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #f0f0f0;
             text-align: center;
         }
 
         .form-container {
-            background-color: #fff; /* White background for form */
+            background-color: #fff;
             padding: 30px;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             max-width: 500px;
             margin: 50px auto;
         }
 
         .form-container h2 {
             margin-bottom: 20px;
-            color: #3498db; /* Blue color for headings */
+            color: #3498db;
             font-size: 2em;
         }
 
@@ -47,12 +47,12 @@
         }
 
         .form-container input:focus {
-            border-color: #3498db; /* Blue border on focus */
+            border-color: #3498db;
             outline: none;
         }
 
         .form-container button {
-            background-color: #27ae60; /* Green button */
+            background-color: #27ae60;
             color: white;
             border: none;
             padding: 15px 30px;
@@ -65,25 +65,25 @@
         }
 
         .form-container button:hover {
-            background-color: #219d53; /* Darker green hover effect */
+            background-color: #219d53;
         }
 
         .unsubscribe-section {
             margin-top: 30px;
-            background-color: #f9f9f9; /* Light gray background for unsubscribe section */
+            background-color: #f9f9f9;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
 
         .unsubscribe-section h2 {
             margin-bottom: 20px;
-            color: #e74c3c; /* Red color for headings */
+            color: #e74c3c;
             font-size: 1.5em;
         }
 
         .unsubscribe-section button {
-            background-color: #e74c3c; /* Red button */
+            background-color: #e74c3c;
             color: white;
             border: none;
             padding: 15px 30px;
@@ -96,7 +96,7 @@
         }
 
         .unsubscribe-section button:hover {
-            background-color: #c0392b; /* Darker red hover effect */
+            background-color: #c0392b;
         }
     </style>
 </head>

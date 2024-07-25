@@ -8,7 +8,7 @@
     <title>Placements</title>
     <style>
         body {
-            background-color: #ADD8E6; /* Light blue background */
+            background-color: #ADD8E6;
             margin: 0;
             font-family: Arial, sans-serif;
             display: flex;
@@ -18,16 +18,16 @@
         }
 
         .email-container {
-            background-color: #CCC; /* Light gray container */
+            background-color: #CCC;
             padding: 20px 50px;
             border-radius: 10px;
-            width: 80%; /* Adjust width as needed */
+            width: 80%;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: 20px auto; /* Center horizontally with margin */
+            margin: 20px auto;
         }
 
         .email-item {
-            background-color: #FAEBD7; /* Beige email item */
+            background-color: #FAEBD7;
             margin: 10px 0;
             padding: 20px;
             border-radius: 5px;
@@ -35,13 +35,13 @@
         }
 
         .email-item h2 {
-            color: #640000; /* Dark red heading */
+            color: #640000;
             text-align: center;
             margin: 5px 0;
         }
 
         .email-item h1 {
-            color: #640000; /* Dark red date */
+            color: #640000;
             text-align: center;
             margin: 5px 0;
         }
@@ -51,7 +51,7 @@
         }
 
         .email-item a {
-            background-color: #4CAF50; /* Green button */
+            background-color: #4CAF50;
             color: white;
             padding: 10px 20px;
             text-decoration: none;
@@ -63,18 +63,18 @@
         }
 
         .email-item a:hover {
-            background-color: #45a049; /* Darker green hover effect */
+            background-color: #45a049;
         }
 
         .opportunities-heading {
-            background-color: #3498db; /* Blue background for heading */
+            background-color: #3498db;
             color: white;
             font-size: 2em;
             padding: 20px;
             text-align: center;
             border-radius: 5px 5px 0 0;
-            width: 80%; /* Match width with email-container */
-            margin: 20px auto 10px; /* Center horizontally with top and bottom margin */
+            width: 80%;
+            margin: 20px auto 10px;
         }
     </style>
 </head>
@@ -88,16 +88,14 @@
         <section>
             <div class="email-container">
                 @foreach($records as $record)
-                <?php if ($record->Sender_Email != "Nan"): ?>
+                @if($record->Sender_Email != "Nan")
                 <div class="email-item" id="{{$record->id}}">
-                    <h2>Email From: {{ $record->Sender_Email}}</h2>
-                    <h1><b>Date: {{ $record->Email_recv_date}} </b></h1>
-                    <div> 
-                    <p> <b>Subject: {{$record->Email_Subject}} </b></p>
+                    <h2>Email From: {{ $record->Sender_Email }}</h2>
+                    <h1><b>Date: {{ $record->Email_recv_date }}</b></h1>
+                    <p><b>Subject: {{ $record->Email_Subject }}</b></p>
                     <a href="read_more/{{$record->id}}">Read More</a>
                 </div>
-                </div>
-                <?php endif; ?>
+                @endif
                 @endforeach
             </div>
         </section>

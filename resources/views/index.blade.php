@@ -8,17 +8,17 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0; /* Light gray background */
+            background-color: #f0f0f0;
             text-align: center;
         }
         
         .navbar {
-            background-color: #3496db; /* Updated color for navbar */
+            background-color: #3496db;
             overflow: hidden;
             display: flex;
-            justify-content: space-between; /* Align items horizontally */
-            align-items: center; /* Center items vertically */
-            padding: 10px 30px; /* Padding adjusted */
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 30px;
         }
         
         .navbar a {
@@ -29,11 +29,11 @@
         }
         
         .navbar a:hover {
-            background-color: #2980b9; /* Darker blue hover effect */
+            background-color: #2980b9;
         }
         
         .subscribe-button {
-            background-color: #27ae60; /* Green button */
+            background-color: #27ae60;
             color: white;
             border: none;
             padding: 10px 20px;
@@ -44,14 +44,14 @@
         }
         
         .subscribe-button:hover {
-            background-color: #219d53; /* Darker green hover effect */
+            background-color: #219d53;
         }
         
         .main-screen {
-            background-color: #3498db; /* Blue background for main screen */
+            background-color: #3498db;
             color: white;
             padding: 100px 0;
-            width: 100%; /* Full width */
+            width: 100%;
         }
         
         .main-screen h1 {
@@ -72,7 +72,7 @@
         .main-screen .view-opportunities button {
             padding: 10px 20px;
             font-size: 16px;
-            background-color: #2ecc71; /* Green button */
+            background-color: #2ecc71;
             color: white;
             border: none;
             cursor: pointer;
@@ -81,12 +81,12 @@
         }
         
         .main-screen .view-opportunities button:hover {
-            background-color: #27ae60; /* Darker green hover effect */
+            background-color: #27ae60;
         }
         
         .about-section {
             padding: 50px 20px;
-            background-color: #fff; /* White background */
+            background-color: #fff;
         }
         
         .about-section p {
@@ -99,7 +99,7 @@
         
         .developer-info {
             margin-top: 50px;
-            background-color: #f9f9f9; /* Light gray developer info background */
+            background-color: #f9f9f9;
             padding: 20px;
         }
         
@@ -116,7 +116,7 @@
         }
         
         .developer-info a {
-            color: #3498db; /* Blue link */
+            color: #3498db;
             text-decoration: none;
             font-weight: bold;
             display: inline-block;
